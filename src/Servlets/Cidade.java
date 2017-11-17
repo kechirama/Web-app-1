@@ -15,7 +15,6 @@ public class Cidade {
 	String getNome() {
 		return nome;
 	}
-	
 	Cidade (int id, String nome){
 		setId (id);
 		setNome (nome);
